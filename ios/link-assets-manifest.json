@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/GillSansNova-Bold.ttf",
+      "sha1": "31fcc274e0723b318f51d98460be527680e35ebe"
+    },
+    {
+      "path": "src/assets/fonts/GillSansNova-Bold_Italic.ttf",
+      "sha1": "bc272a9e68ca430b70007023e3732e69a2667959"
+    },
+    {
+      "path": "src/assets/fonts/GillSansNova.ttf",
+      "sha1": "8fe07b81d0e8eb1ef10f95ae9b07a77e598c74af"
+    },
+    {
+      "path": "src/assets/fonts/GillSansNova_Italic.ttf",
+      "sha1": "4509896f58ea6118ed79c8393893f3c45eafe364"
+    },
+    {
+      "path": "src/assets/fonts/Righteous-Regular.ttf",
+      "sha1": "3129e2b47e224dec082c4169b396b1fa27a95749"
+    }
+  ]
+}
